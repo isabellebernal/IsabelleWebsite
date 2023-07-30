@@ -1,0 +1,73 @@
+body{
+    font-family: "Lucida Calligraphy";
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-color: pink;
+    background-image: url("../photobacl.png");
+    height: 735px;
+    color: hotpink;
+
+}
+header
+{
+    font-family: "Comic Sans MS";
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li {
+
+    diplay: inline-block;
+    float: right;
+    padding: 30px 35px 40px 45px;
+
+}
+
+.container
+{
+
+    display: inline-block;
+    padding-left: 50px;
+    padding-bottom: 10px;
+
+}
+
+.box
+{
+    margin-right: 200px;
+    margin-left: 200px;
+    border: 2px solid #FDC0C1;
+    border-radius: 10px;
+    background-color: #feefef;
+
+}
+.box-forbutton
+{
+    margin-right: 200px;
+    margin-left: 200px;
+    border: 2px solid #FDC0C1;
+    border-radius: 10px;
+    background-color: #feefef;
+}
+.button{
+    display: block;
+    border: none;
+    background-color: hotpink;
+    color: white;
+    padding: 14px 28px;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+    font-family: "Lucida Calligraphy";
+    margin: auto;
+
+
+
+}
+
+
