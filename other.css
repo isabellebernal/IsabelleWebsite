@@ -5,9 +5,10 @@ body{
 }
 .hero{
     background-color: pink;
-    background-image: url("../photobacl.png");
+    background-image: url("../trywallpap.jpg");
+    background-size: cover;
     height: 735px;
-    color: hotpink;
+    color: #E13976;
 
 }
 header
@@ -39,25 +40,34 @@ li {
 
 .box
 {
-    margin-right: 200px;
-    margin-left: 200px;
-    border: 2px solid #FDC0C1;
+    margin-right: 300px;
+    margin-left: 300px;
+    border: 3px solid white;
     border-radius: 10px;
-    background-color: #feefef;
+    background-color: #dee0e4;
+
+}
+.box-forAboutMe
+{
+    margin-right: 300px;
+    margin-left: 380px;
+    border: 3px solid white;
+    border-radius: 10px;
+    background-color: #dee0e4;
 
 }
 .box-forbutton
 {
-    margin-right: 200px;
-    margin-left: 200px;
-    border: 2px solid #FDC0C1;
+    margin-right: 300px;
+    margin-left: 300px;
+    border: 3px solid white;
     border-radius: 10px;
-    background-color: #feefef;
+    background-color: #dee0e4;
 }
 .button{
     display: block;
     border: none;
-    background-color: hotpink;
+    background-color: #E13976;
     color: white;
     padding: 14px 28px;
     font-size: 25px;
